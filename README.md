@@ -128,6 +128,7 @@ The E-Commerce business generated **$1.26M in total sales** with an average orde
 ## 👩‍💻 Author
 
 **Vivian Okoaze**
+
 Data Analytics Intern | Decodelabs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vivian-okoaze-108369173)
